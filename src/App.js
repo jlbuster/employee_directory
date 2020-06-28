@@ -38,7 +38,11 @@ class App extends Component {
   handleFormSubmit = event => {
     event.preventDefault();
     const results = users.filter(user => user.name.toUpperCase() === this.state.search.toUpperCase())
-    this.setState({ results: results })
+    this.setState({ users: results })
+
+    if (this.state.search.length === 0) {
+      this.setState({ users: users})
+    }
   }
 
   
