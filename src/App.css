@@ -29,8 +29,19 @@ body {
 .sortName {
   border-radius: 2px;
   background-color: lightgreen;
+  float: right;
+  margin-right: 100px;
 }
 
 .sortName:hover {
   background-color: rgb(103, 204, 103)
+}
+
+.filterName {
+  border-radius: 2px;
+  background-color: rgb(144, 211, 238);
+}
+
+.filterName:hover {
+  background-color: rgb(96, 172, 202)
 }
