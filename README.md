@@ -8,7 +8,7 @@ This application allows the user to view non-sensitive information about their e
 
 ## Link to Working Application
 
-
+https://jlbuster.github.io/employee_directory/
 
 ## Table of Contents
 * [Installation](#installation)
