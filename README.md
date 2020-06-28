@@ -41,4 +41,4 @@ This application includes no test
 
 ## Gif of Working Application
 
-![](/gif/employee_gif.gif)
+![](/gif/employe_gif.gif)
